@@ -22,7 +22,7 @@ L'analyse s'articule autour de trois axes : la performance du service client, le
 
 > **Problématique : Quel est le volume d'activité par site ? Les temps d'attente sont-ils dans les normes ? Quels types d'appels dominent ?**
 
-(images/Dashboard_1_ServiceClient.png)
+![Dashboard](images/Dashboard_1_ServiceClient.png)
 
 ---
 
@@ -60,7 +60,7 @@ Ce graphique en secteurs répartit les appels selon leur nature : **Tech Support
 
 > **Problématique : Quels sites génèrent le plus de revenus ? Quelle est la part de chaque type d'appel dans le chiffre d'affaires ? Quels managers sont les plus performants financièrement ?**
 
-(images/Dashboard_2_Revenus.png)
+![Dashboard](images/Dashboard_2_Revenus.png)
 
 ---
 
@@ -92,7 +92,7 @@ Ce graphique combiné croise pour chaque manager les **revenus générés** (bar
 
 > **Problématique : Quels managers et quels employés sont les plus performants ? Les temps d'attente sont-ils homogènes selon les équipes ? Comment les performances évoluent-elles au fil de la journée ?**
 
-(images/Dashboard_3_Performances.png)
+![Dashboard](images/Dashboard_3_Performances.png)
 
 Ce rapport est **entièrement filtrable par manager** via un sélecteur interactif, permettant d'isoler les indicateurs d'une équipe spécifique pour une analyse ciblée.
 
